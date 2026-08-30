@@ -1,0 +1,1 @@
+-- HYDRA Hub: módulo de Steal An Egg ainda não configurado
